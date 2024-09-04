@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 田园猫的部落格</title>
-    <link>https://faifaigai.github.io/post/</link>
-    <description>Recent content in Posts on 田园猫的部落格</description>
+    <title>搭博客儿 on 田园猫的部落格</title>
+    <link>https://faifaigai.github.io/tags/%E6%90%AD%E5%8D%9A%E5%AE%A2%E5%84%BF/</link>
+    <description>Recent content in 搭博客儿 on 田园猫的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 12:21:53 +0800</lastBuildDate><atom:link href="https://faifaigai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 12:21:53 +0800</lastBuildDate><atom:link href="https://faifaigai.github.io/tags/%E6%90%AD%E5%8D%9A%E5%AE%A2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SecondPost</title>
       <link>https://faifaigai.github.io/post/2024/09/04/test/</link>
@@ -15,30 +15,6 @@
       <guid>https://faifaigai.github.io/post/2024/09/04/test/</guid>
       <description>文章标题 第一节 内容&amp;hellip;
 第二节 内容&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Guide (modified)</title>
-      <link>https://faifaigai.github.io/post/2018/08/30/markdown-guide-modified/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://faifaigai.github.io/post/2018/08/30/markdown-guide-modified/</guid>
-      <description>An h1 header Paragraphs are separated by a blank line.
-2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
-this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
-Block quotes are written like so.
-They can span multiple paragraphs, if you like.
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &amp;ldquo;it&amp;rsquo;s all in chapters 12&amp;ndash;14&amp;rdquo;).</description>
-    </item>
-    
-    <item>
-      <title>Command Line Awesomeness</title>
-      <link>https://faifaigai.github.io/post/2012/03/12/command-line-awesomeness/</link>
-      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://faifaigai.github.io/post/2012/03/12/command-line-awesomeness/</guid>
-      <description>This crud is called HTML (HyperText Markup Language) and it is basically a very simple programming language instructing your web browser how to draw a page on a screen. Anyone can learn HTML and many people do. The important thing is that no matter what splendid multimedia web pages they might represent, HTML files are just telegrams.
-When Ronald Reagan was a radio announcer, he used to call baseball games by reading the terse descriptions that trickled in over the telegraph wire and were printed out on a paper tape.</description>
     </item>
     
     <item>

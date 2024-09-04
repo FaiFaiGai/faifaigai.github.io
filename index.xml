@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Classic</title>
+    <title>Home on 田园猫的部落格</title>
     <link>https://faifaigai.github.io/</link>
-    <description>Recent content in Home on Classic</description>
+    <description>Recent content in Home on 田园猫的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://faifaigai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 12:21:53 +0800</lastBuildDate><atom:link href="https://faifaigai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SecondPost</title>
+      <link>https://faifaigai.github.io/post/2024/09/04/test/</link>
+      <pubDate>Wed, 04 Sep 2024 12:21:53 +0800</pubDate>
+      
+      <guid>https://faifaigai.github.io/post/2024/09/04/test/</guid>
+      <description>文章标题 第一节 内容&amp;hellip;
+第二节 内容&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Markdown Guide (modified)</title>
       <link>https://faifaigai.github.io/post/2018/08/30/markdown-guide-modified/</link>
@@ -22,18 +32,6 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &amp;ldquo;it&amp;rsq
     </item>
     
     <item>
-      <title>Hacker with Bullhorn</title>
-      <link>https://faifaigai.github.io/post/2012/04/23/hacker-with-horn/</link>
-      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://faifaigai.github.io/post/2012/04/23/hacker-with-horn/</guid>
-      <description>Hacker with bullhorn: &amp;ldquo;Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!&amp;rdquo;
-Prospective station wagon buyer: &amp;ldquo;I know what you say is true&amp;hellip;but&amp;hellip;er&amp;hellip;I don&amp;rsquo;t know how to maintain a tank!&amp;rdquo;
-Bullhorn: &amp;ldquo;You don&amp;rsquo;t know how to maintain a station wagon either!&amp;rdquo;
-Buyer: &amp;ldquo;But this dealership has mechanics on staff.</description>
-    </item>
-    
-    <item>
       <title>Command Line Awesomeness</title>
       <link>https://faifaigai.github.io/post/2012/03/12/command-line-awesomeness/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
@@ -44,13 +42,30 @@ When Ronald Reagan was a radio announcer, he used to call baseball games by read
     </item>
     
     <item>
-      <title>Juicy Code</title>
-      <link>https://faifaigai.github.io/post/2012/01/23/juicy-code/</link>
-      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      <title>测试</title>
+      <link>https://faifaigai.github.io/post/1/01/01/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://faifaigai.github.io/post/2012/01/23/juicy-code/</guid>
-      <description>Check out this JUICY! code:
-def with_value_from_database(value) self.class.from_database(name, value, type) end def with_cast_value(value) self.class.with_cast_value(name, value, type) end def with_type(type) if changed_in_place? with_value_from_user(value).with_type(type) else self.class.new(name, value_before_type_cast, type, original_attribute) end end </description>
+      <guid>https://faifaigai.github.io/post/1/01/01/test/</guid>
+      <description>代码框 def with_value_from_database(value) self.class.from_database(name, value, type) end 插入图片 插入本地图片捏 调整大小 &amp;lt;img src=&amp;#34;/images/春丽捏.png&amp;#34; alt=&amp;#34;春丽捏&amp;#34; width=&amp;#34;300&amp;#34; height=&amp;#34;200&amp;#34;&amp;gt; \
+换行符 \ or &amp;lt;br&amp;gt; 引用块
+没人告诉你什么时候应该起跑，你错过了发令枪
+所以你跑啊跑，想追上太阳，可惜它已经开始下落
+它在和你赛跑，从你后面又升了起来
+太阳还是一样朝着原来的方向，但你却已经变老
+呼吸急促了，离死亡又近了一天
+年复一年 变得越来越短，总觉得找不到时间了
+停下来感受世界是所有生命的需要，永远不能忘记哦。 我希望自己也是一颗星星 链接
+田园猫是啥子
+田园猫的老家
+这是一个划掉的文本示例。
+这是红色的粗体文本
+任务 1：待完成 任务 2：已完成 任务 3：待完成 点击展开详细信息这是折叠内容的详细信息部分。Dancing in Rainbow Bridge #ETHDenver pic.twitter.com/eWXtGjETQL
+&amp;mdash; 小島みなこ 🏳️‍⚧️ (@MinakoOikawa) February 13, 2020 这是一个行间公式：
+$$ f(x) = \sin(x) $$
+行内公式$$ f(x) = \sin(x) $$ 搞不了捏？！
+新建文章时
+hugo new post/some-name.</description>
     </item>
     
   </channel>
