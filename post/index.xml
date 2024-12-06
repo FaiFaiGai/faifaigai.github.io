@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 田园猫的部落格</title>
+    <link>https://faifaigai.github.io/post/</link>
+    <description>Recent content in Posts on 田园猫的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 19:40:07 +0800</lastBuildDate><atom:link href="https://faifaigai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>126</title>
+      <link>https://faifaigai.github.io/post/2024/12/06/126/</link>
+      <pubDate>Fri, 06 Dec 2024 19:40:07 +0800</pubDate>
+      
+      <guid>https://faifaigai.github.io/post/2024/12/06/126/</guid>
+      <description>朝花夕拾 </description>
+    </item>
+    
+    <item>
+      <title>SecondPost</title>
+      <link>https://faifaigai.github.io/post/2024/09/04/test/</link>
+      <pubDate>Wed, 04 Sep 2024 12:21:53 +0800</pubDate>
+      
+      <guid>https://faifaigai.github.io/post/2024/09/04/test/</guid>
+      <description>文章标题 第一节 内容&amp;hellip;
+第二节 内容&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Guide (modified)</title>
+      <link>https://faifaigai.github.io/post/2018/08/30/markdown-guide-modified/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://faifaigai.github.io/post/2018/08/30/markdown-guide-modified/</guid>
+      <description>An h1 header Paragraphs are separated by a blank line.
+2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
+this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
+Block quotes are written like so.
+They can span multiple paragraphs, if you like.
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &amp;ldquo;it&amp;rsquo;s all in chapters 12&amp;ndash;14&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Command Line Awesomeness</title>
+      <link>https://faifaigai.github.io/post/2012/03/12/command-line-awesomeness/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://faifaigai.github.io/post/2012/03/12/command-line-awesomeness/</guid>
+      <description>This crud is called HTML (HyperText Markup Language) and it is basically a very simple programming language instructing your web browser how to draw a page on a screen. Anyone can learn HTML and many people do. The important thing is that no matter what splendid multimedia web pages they might represent, HTML files are just telegrams.
+When Ronald Reagan was a radio announcer, he used to call baseball games by reading the terse descriptions that trickled in over the telegraph wire and were printed out on a paper tape.</description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://faifaigai.github.io/post/1/01/01/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://faifaigai.github.io/post/1/01/01/test/</guid>
+      <description>代码框 def with_value_from_database(value) self.class.from_database(name, value, type) end 插入图片 调整大小 &amp;lt;img src=&amp;#34;/images/春丽捏.png&amp;#34; alt=&amp;#34;春丽捏&amp;#34; width=&amp;#34;300&amp;#34; height=&amp;#34;200&amp;#34;&amp;gt; \
+换行符 &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; 引用块
+没人告诉你什么时候应该起跑，你错过了发令枪
+所以你跑啊跑，想追上太阳，可惜它已经开始下落
+它在和你赛跑，从你后面又升了起来
+太阳还是一样朝着原来的方向，但你却已经变老
+呼吸急促了，离死亡又近了一天
+年复一年 变得越来越短，总觉得找不到时间了
+停下来感受世界是所有生命的需要，永远不能忘记哦。 我希望自己也是一颗星星 链接
+田园猫是啥子
+田园猫的老家
+这是一个划掉的文本示例。
+这是红色的粗体文本
+任务 1：待完成 任务 2：已完成 任务 3：待完成 点击展开详细信息这是折叠内容的详细信息部分。Dancing in Rainbow Bridge #ETHDenver pic.twitter.com/eWXtGjETQL
+&amp;mdash; 小島みなこ 🏳️‍⚧️ (@MinakoOikawa) February 13, 2020 这是一个行间公式：
+$$ f(x) = \sin(x) $$
+行内公式$$ f(x) = \sin(x) $$ 搞不了捏？！
+新建文章时
+hugo new post/some-name.mmark 好玩儿的 同病相怜 好怪，再看一眼</description>
+    </item>
+    
+  </channel>
+</rss>

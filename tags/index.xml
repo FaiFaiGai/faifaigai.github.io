@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 田园猫的部落格</title>
+    <link>https://faifaigai.github.io/tags/</link>
+    <description>Recent content in Tags on 田园猫的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2024 12:21:53 +0800</lastBuildDate><atom:link href="https://faifaigai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭博客儿</title>
+      <link>https://faifaigai.github.io/tags/%E6%90%AD%E5%8D%9A%E5%AE%A2%E5%84%BF/</link>
+      <pubDate>Wed, 04 Sep 2024 12:21:53 +0800</pubDate>
+      
+      <guid>https://faifaigai.github.io/tags/%E6%90%AD%E5%8D%9A%E5%AE%A2%E5%84%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://faifaigai.github.io/tags/markdown/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://faifaigai.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://faifaigai.github.io/tags/html/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://faifaigai.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
